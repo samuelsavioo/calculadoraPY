@@ -20,7 +20,7 @@ O usuário pode interagir com a calculadora por meio de um menu intuitivo e digi
 2. Abra um terminal e navegue até o diretório onde o arquivo está salvo.
 3. Execute o script com o comando:
    ```sh
-   python calculadora.py
+   python calculator.py
    ```
 4. Escolha uma operação e insira os números conforme solicitado.
 
